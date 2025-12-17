@@ -1,4 +1,3 @@
-# springboot-app
 # Spring Boot DevOps Demo Application
 
 ## 🔥 Project Summary
